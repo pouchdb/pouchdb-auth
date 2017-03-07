@@ -1,5 +1,7 @@
 # pouchdb-auth
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-auth.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/pouchdb/pouchdb-auth.svg?branch=master)](https://travis-ci.org/pouchdb/pouchdb-auth)
 [![Dependency Status](https://david-dm.org/pouchdb/pouchdb-auth.svg)](https://david-dm.org/pouchdb/pouchdb-auth)
 [![devDependency Status](https://david-dm.org/pouchdb/pouchdb-auth/dev-status.svg)](https://david-dm.org/pouchdb/pouchdb-auth#info=devDependencies)
